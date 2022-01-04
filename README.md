@@ -1,1 +1,1 @@
-# coins
+# admin-panel
